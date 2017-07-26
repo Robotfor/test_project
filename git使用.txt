@@ -1,0 +1,5 @@
+git clone //链接
+cd--找到下载下来的项目文件夹
+在目录下：git add  . (.代表所有)
+git commit -m '+这次托付的说明（修改说明）'
+git push
